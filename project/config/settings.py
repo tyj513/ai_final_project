@@ -5,8 +5,8 @@ from pathlib import Path
 class Config:
     """系統配置數據類""" 
     # 基礎路徑配置
-    base_dir: Path = Path("/home/p76131694/FoodSAM-main")
-    foodsam_dir: Path = base_dir / "FoodSAM"
+    base_dir: Path = Path("/home/p76131694/FoodSAM-main/project/sam")
+    foodsam_dir: Path = base_dir / "FoodSAM" 
     
     # 模型相關路徑
     model_dir: Path = base_dir / "models"  
