@@ -1,5 +1,5 @@
 # Intro to AI_final_project_75
-# Food Ingredient Detection and Recipe Generation System Using Segment-Anything Model with Zero-Shot Learning
+# Food Ingredient Detection and Recipe Generation System Using Segment-Anything Model with Zero-Shot Learning 食材好，食才好
 
 一個基於 AI 的智慧食譜推薦系統，能夠識別食材圖片並生成相應的食譜建議。
 
