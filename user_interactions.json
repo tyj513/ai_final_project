@@ -1,0 +1,54 @@
+{
+  "rwr": [
+    {
+      "recipe_id": "recipe_20241203134925",
+      "rating": 3.0,
+      "feedback": "",
+      "timestamp": "2024-12-03 13:49:25"
+    }
+  ],
+  "ty": [
+    {
+      "recipe_id": "recipe_20241203134930",
+      "rating": 3.0,
+      "feedback": "",
+      "timestamp": "2024-12-03 13:49:30"
+    },
+    {
+      "recipe_id": "recipe_20241203141737",
+      "rating": 2.0,
+      "feedback": "",
+      "timestamp": "2024-12-03 14:17:37"
+    }
+  ],
+  "chill": [
+    {
+      "recipe_id": "recipe_20241203142042",
+      "rating": 5.0,
+      "feedback": "",
+      "timestamp": "2024-12-03 14:20:42"
+    }
+  ],
+  "jp": [
+    {
+      "recipe_id": "recipe_20241203143041",
+      "rating": 2.0,
+      "feedback": "",
+      "timestamp": "2024-12-03 14:30:41"
+    }
+  ],
+  "jay": [
+    {
+      "recipe_id": "recipe_20241204083952",
+      "rating": 4.5,
+      "feedback": "",
+      "timestamp": "2024-12-04 08:39:52"
+    },
+    {
+      "recipe_id": "recipe_20241204104633",
+      "rating": 4.0,
+      "feedback": "",
+      "timestamp": "2024-12-04 10:46:33"
+    }
+  ]
+}

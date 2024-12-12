@@ -1,0 +1,14 @@
+__pycache__/
+Output/
+ckpts/SETR_MLA/*
+!ckpts/SETR_MLA/.gitkeep
+ckpts/*
+# 忽略特定的大文件
+FoodSAM/output/426332562_18417032074063625_8217912776225267504_n/sam_mask/masks.npy
+FoodSAM/output/00004428/sam_mask/masks.npy
+FoodSAM/output/easy-fried-rice-recipe-ingredients-197179-1/sam_mask/masks.npy
+FoodSAM/output/ingredients-for-kinamatisan/sam_mask/masks.npy
+FoodSAM/output/semantic/sam_mask/masks.npy
+
+# 忽略整個 output 資料夾的內容
+FoodSAM/output/

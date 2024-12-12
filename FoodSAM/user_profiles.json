@@ -1,0 +1,116 @@
+{
+  "default_user": {
+    "dietary_restrictions": [],
+    "cooking_skill": 3,
+    "preferred_cuisine": [
+      "Italian"
+    ],
+    "available_equipment": [
+      "oven",
+      "microwave"
+    ],
+    "health_goals": [],
+    "portion_size": 2,
+    "max_cooking_time": 60,
+    "last_updated": "2024-11-30 22:00:11"
+  },
+  "tyler": {
+    "dietary_restrictions": [
+      "低碳水",
+      "低脂肪"
+    ],
+    "cooking_skill": 4,
+    "preferred_cuisine": [
+      "韓式",
+      "日式",
+      "中式"
+    ],
+    "available_equipment": [
+      "電鍋"
+    ],
+    "health_goals": [
+      "減重"
+    ],
+    "portion_size": 2,
+    "max_cooking_time": 60,
+    "last_updated": "2024-12-01 00:41:39"
+  },
+  "ty": {
+    "dietary_restrictions": [
+      "gluten_free"
+    ],
+    "cooking_skill": 2.79,
+    "preferred_cuisine": [
+      "Chinese",
+      "Mexican"
+    ],
+    "available_equipment": [
+      "microwave"
+    ],
+    "health_goals": [
+      "high_protein"
+    ],
+    "portion_size": 2,
+    "max_cooking_time": 60,
+    "last_updated": "2024-11-30 22:00:27"
+  },
+  "lulu": {
+    "dietary_restrictions": [
+      "素食"
+    ],
+    "cooking_skill": 1,
+    "preferred_cuisine": [
+      "美式"
+    ],
+    "available_equipment": [
+      "氣炸鍋"
+    ],
+    "health_goals": [
+      "控制血糖"
+    ],
+    "portion_size": 2,
+    "max_cooking_time": 60,
+    "last_updated": "2024-12-01 00:45:06"
+  },
+  "qi": {
+    "dietary_restrictions": [
+      "無乳糖"
+    ],
+    "cooking_skill": 3,
+    "preferred_cuisine": [
+      "日式"
+    ],
+    "available_equipment": [
+      "電鍋"
+    ],
+    "health_goals": [
+      "營養均衡"
+    ],
+    "portion_size": 2,
+    "max_cooking_time": 60,
+    "last_updated": "2024-12-01 00:58:34"
+  },
+  "test": {
+    "dietary_restrictions": [
+      "低碳水",
+      "低脂肪"
+    ],
+    "cooking_skill": 5,
+    "preferred_cuisine": [
+      "中式",
+      "美式"
+    ],
+    "available_equipment": [
+      "電鍋",
+      "氣炸鍋",
+      "烤箱"
+    ],
+    "health_goals": [
+      "控制血糖",
+      "營養均衡"
+    ],
+    "portion_size": 2,
+    "max_cooking_time": 60,
+    "last_updated": "2024-12-02 16:12:55"
+  }
+}
